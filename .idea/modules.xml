@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-electricity-base/demo-electricity-base.iml" filepath="$PROJECT_DIR$/demo-electricity-base/demo-electricity-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-electricity-user/demo-electricity-user.iml" filepath="$PROJECT_DIR$/demo-electricity-user/demo-electricity-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/gzw-demo-electricity.iml" filepath="$PROJECT_DIR$/gzw-demo-electricity.iml" />
     </modules>
   </component>
